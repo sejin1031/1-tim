@@ -1,1 +1,1 @@
-Android App project
+Android App (Open Source)project
