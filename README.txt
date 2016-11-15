@@ -1,2 +1,2 @@
 Android App (Open Source)project
-Simple Memo application
+간단한 메모장 어플
