@@ -1,14 +1,6 @@
-Android App (Open Source)project
-간단한 메모장 application
-우리는 메모장 어플리케이션을 만들 예정입니다.
-우리는 안드로이드 개발자의 기초자입니다. 그래서 우리는 단순한 메모장 어플리케
-이션을 만들 예정입니다. 저희들의 실력 향상을 위해서 말이죠.
-저희 프로트의 마지막에서는 우리는 메모 장 어플리케이션을 저희의 입맛대로 바꿀 것 입니다.
-팀 멤버의 역할
-1. 박진혁
-메인역할 : 디자인 서브역할 : 코드개발
-2. 변재헌
-메인역할 : 코드개발 서브역할 : 디자인
-3. 엄세진
-메인역할 : 프로젝트의 총괄 서브역할 : 코드개발
-
+<LILME Memo>
+We are beginner of  developing Android application.
+This is nonprofitable, so that everyone can use our code.
+This project is oriented to making simple memo application.
+It looks so simple app, but this application is not just simple. We change this design according to our taste.
+Probably We will releasing this December 21 in the PlayStore at free.
