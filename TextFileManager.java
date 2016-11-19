@@ -7,7 +7,7 @@ import java.io.IOException;
 
 
 public class TextFileManager {
-    private static final String FILE_NAME = "Memo.txt";
+    private static final String FILE_NAME = "LilmeMemo.txt";
     Context mContext = null;
 
     public TextFileManager(Context context) {
