@@ -4,7 +4,7 @@ import android.content.Context;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
-
+import java.io.*;
 
 public class TextFileManager {
     private static final String FILE_NAME = "LilmeMemo.txt";
