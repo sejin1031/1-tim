@@ -30,6 +30,17 @@ public class TextFileManager {
             e.printStackTrace();
         }
     }
-
+    public String load(){
+        try{
+            //
+            FileInputStream fisMemo = mContext.openFileInput(FILE_NAME);
+            
+            byte[] memoData = new byte[fisMemo.available()];
+           while(fisMemo.read(memoData) != -1){}
+            
+            return new String(memoData);
+        }catch(IOException e){}
+        return "";
+    }
     
 }
