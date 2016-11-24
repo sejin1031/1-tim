@@ -8,7 +8,7 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
-    EditText mMemoEdit = null;
+    EditText memoEdit = null;
     TextFileManager mTextFileManager = new TextFileManager(this);
 
     @Override
@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        mMemoEdit = (EditText) findViewById(R.id.memo_edit);
+        memoEdit = (EditText) findViewById(R.id.memo_edit);
     }
 
 
