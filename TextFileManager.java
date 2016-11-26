@@ -40,7 +40,7 @@ public class TextFileManager {
             
             return new String(memoData);
         }catch(IOException e){}
-        return "";
+        return "load memo";
     }
     
     public void delete(){
