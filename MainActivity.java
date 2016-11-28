@@ -22,6 +22,14 @@ public class MainActivity extends AppCompatActivity {
 
 
     public void onClick(View v){
+    	switch(v.getId()){
+            case R.id.load_btn:{
+                String memoData = mTextFileManager.load();
+                mMemoEdit.setText(memoData);
+                Toast.makeText(this,"불러오기 완료",Toast.LENGTH_LONG).show();
+                break;
+            }
+        }
        
             
     }
