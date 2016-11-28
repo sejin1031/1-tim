@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
             case R.id.load_btn:{
                 String memoData = mTextFileManager.load();
                 mMemoEdit.setText(memoData);
-                Toast.makeText(this,"불러오기 완료",Toast.LENGTH_LONG).show();
+                Toast.makeText(this,"load complete!",Toast.LENGTH_LONG).show();
                 break;
             }
         }
