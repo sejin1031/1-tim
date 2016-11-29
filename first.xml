@@ -7,5 +7,5 @@
 	android:id="@+id/btn_layout"
 	android:layout_width="match_parent"
 	android:layout_height="wrap_content"
-	android:layut_marginBottom="26dp"
+	android:layut_marginBottom="30dp"//dp
 	android:orientation="horizontal">
