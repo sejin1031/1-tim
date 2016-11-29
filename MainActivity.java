@@ -29,6 +29,10 @@ public class MainActivity extends AppCompatActivity {
                 Toast.makeText(this,"load complete!",Toast.LENGTH_LONG).show();
                 break;
             }
+
+            case R.id.save_btn:{
+            	String.memoData = mTextFileManager.save();
+            }
         }
        
             
