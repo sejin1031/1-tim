@@ -20,3 +20,7 @@ Second, At first we will make it very simple function because of we are not good
 Finally, We debugging our code and modifying app's design according to our taste.
 
 p.s. - Our project team mebmers love ilmi dakgalbi which located in front of Hanyang University at Ansan Campus so much. But We can't use name ilmi directly, So we slight modify name ilmi to LILME. Isn't awesome name?
+
+If you want to join us, you can participate in this project anytime.
+
+
