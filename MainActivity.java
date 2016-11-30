@@ -38,7 +38,14 @@ public class MainActivity extends AppCompatActivity {
                 break;
             
             }
-        }
+                
+            case R.id.delete_btn:{
+                mTextFileManager.delete();
+                mMemoEdit.setText("");
+                
+                Toast.makeText(this,"complete delete",Toast.LENGTH_LONG).show();
+              }
+            }
        
             
     }
