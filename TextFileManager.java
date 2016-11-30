@@ -9,7 +9,7 @@ import java.io.*;
 public class TextFileManager {
     private static final String FILE_NAME = "LilmeMemo.txt";
     Context mContext = null;
-
+    
     public TextFileManager(Context context) {
         mContext = context;
     }
@@ -32,7 +32,7 @@ public class TextFileManager {
     }
     public String load(){
         try{
-            //
+            //produce FileInputStream that named fisMemo
             FileInputStream fisMemo = mContext.openFileInput(FILE_NAME);
             
             byte[] memoData = new byte[fisMemo.available()];
@@ -42,7 +42,7 @@ public class TextFileManager {
         }catch(IOException e){}
         return "load memo";
     }
-    
+    //File delete method
     public void delete(){
         mContext.deleteFile(FILE_NAME);
     }
