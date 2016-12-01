@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
                 mTextFileManager.delete();
                 mMemoEdit.setText("");
                 
-                Toast.makeText(this,"complete delete",Toast.LENGTH_LONG).show();
+                Toast.makeText(this,"delete !",Toast.LENGTH_LONG).show();
               }
             }
        
