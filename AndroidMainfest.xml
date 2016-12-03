@@ -45,8 +45,9 @@
             android:theme="@style/AppTheme.NoActionBar"
             android:excludeFromRecents="true"
             />
-
-        <receiver android:name=".ScreenReceiver" />
+//잠금기능
+        <receiver android:name=".ScreenReceiver" />  
+      
         <receiver
             android:name=".BootReiceiver"
             android:enabled="true"
