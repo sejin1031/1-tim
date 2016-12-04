@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
                 String memoData = mMemoEdit.getText().toString();
                 mTextFileManager.save(memoData);
                 mMemoEdit.setText("");
-                Toast.makeText(this,"저장 완료", Toast.LENGTH_LONG).show();
+                Toast.makeText(this,"save complete!", Toast.LENGTH_LONG).show();
                 break;
             
             }
@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
                 mTextFileManager.delete();
                 mMemoEdit.setText("");
                 
-                Toast.makeText(this,"delete !",Toast.LENGTH_LONG).show();
+                Toast.makeText(this,"delete complete!",Toast.LENGTH_LONG).show();
               }
             }
        
