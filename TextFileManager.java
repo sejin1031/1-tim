@@ -14,7 +14,7 @@ public class TextFileManager {
         mContext = context;
     }
     
-    public void save(String strData){
+    public void save(String strData){//저장 기능
         if(strData == null || strData.equals("")){
             return;
         }
@@ -30,7 +30,7 @@ public class TextFileManager {
             e.printStackTrace();
         }
     }
-    public String load(){
+    public String load(){ //불러오기 기능
         try{
             //produce FileInputStream that named fisMemo
             FileInputStream fisMemo = mContext.openFileInput(FILE_NAME);
@@ -43,7 +43,7 @@ public class TextFileManager {
         return "";
     }
     //File delete method
-    public void delete(){
+    public void delete(){ //삭제 기능
         mContext.deleteFile(FILE_NAME);
     }
 }
