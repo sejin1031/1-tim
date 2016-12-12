@@ -46,7 +46,7 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentRight="true"
         android:layout_below="@+id/btn_layout"
-        android:hint="please write memo"
+        android:hint="메모를 적어주세요."
         android:gravity="top"
         android:background="@android:drawable/edit_text"/>
 
