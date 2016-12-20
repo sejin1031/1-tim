@@ -79,7 +79,7 @@ examples. GPL was the first copyleft license for general use.
 
 
 #Simulation result
-<img src="C:\Users\ÁøÇõ\Desktop\1.PNG">
+<img src="C:\Users\ÁøÇõ\Desktop\1.PNG",height = "200">
 
 
 
