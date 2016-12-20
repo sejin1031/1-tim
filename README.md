@@ -86,12 +86,12 @@ examples. GPL was the first copyleft license for general use.
 Load
 
 
-<img src="https://github.com/sejin1031/1-tim/blob/master/images/2.PNG" height = "200">
+<img src="https://github.com/sejin1031/1-tim/blob/master/images/2.PNG">
 
 Save
 
 
-<img src="https://github.com/sejin1031/1-tim/blob/master/images/3.PNG" height = "200">
+<img src="https://github.com/sejin1031/1-tim/blob/master/images/3.PNG">
 
 Delete
 
