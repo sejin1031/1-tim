@@ -13,7 +13,7 @@ We make this memo application at this way
 
 First, App has three buttons at the top of app's display
 
-Buttons are Save TXT, LOAD TXT, EXIT. It is very simple.
+Buttons are Save TXT, LOAD TXT, DELETE. It is very simple.
 
 Second, At first we will make it very simple function because of we are not good at making android application.
 
@@ -61,11 +61,25 @@ So we decided to help him to use memo app.
 
 2. The currently implemented funtion has only been called to retrieve a single text file, but it will save multiple of text files
 
-and create a function that calls a number of text files to be importes.
+and create a function that calls a number of text files to be imported.
 
 
 -Implementation language
 Using only Java
 
 
--
+-License
+GPL license 3.0
+The GNU General Public License (GNU GPL or GPL) is a widely used free software license, which guarantees end users the freedom 
+to run, study, share and modify the software.[6] The license was originally written by Richard Stallman of the Free Software 
+Foundation (FSF) for the GNU Project, and grants the recipients of a computer program the rights of the Free Software Definition.
+[7] The GPL is a copyleft license, which means that derivative work can only be distributed under the same license terms. 
+This is in distinction to permissive free software licenses, of which the BSD licenses and the MIT License are widely used 
+examples. GPL was the first copyleft license for general use.
+
+
+#Simulation result
+<img src="C:\Users\ÁøÇõ\Desktop\1.PNG">
+
+
+
