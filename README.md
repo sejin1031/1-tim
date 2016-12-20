@@ -59,4 +59,13 @@ Simple Memo App(Android)
 
 So we decided to help him to use memo app.
 
-2. Made it w
+2. The currently implemented funtion has only been called to retrieve a single text file, but it will save multiple of text files
+
+and create a function that calls a number of text files to be importes.
+
+
+-Implementation language
+Using only Java
+
+
+-
