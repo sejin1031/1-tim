@@ -81,7 +81,7 @@ examples. GPL was the first copyleft license for general use.
 #Simulation result
 
 Load
-<img src="https://github.com/sejin1031/1-tim/blob/master/images/1.PNG" height = "200">
+<img src="https://github.com/sejin1031/1-tim/blob/master/images/1.PNG">
 
 Save
 <img src="https://github.com/sejin1031/1-tim/blob/master/images/2.PNG" height = "200">
