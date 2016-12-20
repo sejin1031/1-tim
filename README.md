@@ -24,3 +24,39 @@ p.s. - Our project team mebmers love ilmi dakgalbi which located in front of Han
 If you want to join us, you can participate in this project anytime.
 
 
+
+
+
+
+
+
+
+
+# Project name
+
+Simple Memo App(Android)
+
+# Team information
+
+- Teamname : 01-Team
+
+- Team member
+
+*[Jinhyuk-park](https://dury008.github.io/)
+
+*[Jaeheon-byeon](https://byeon-jaeheon.github.io/)
+
+*[Sejin-eom](https://sejin1031.github.io)
+
+-------------------------------------------------------------------------
+
+
+# Summary of this project
+
+- Project objectives
+
+1. One of our team member's cellphone was updated. But Samsung updated it wrong. Unfortunately his samsung's memo app wans't working.
+
+So we decided to help him to use memo app.
+
+2. Made it w
